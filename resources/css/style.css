@@ -4,13 +4,39 @@ body {
 	text-align: center;
 }
 
+h1, h2 {
+	color: #ffffff;
+}
 h1 {
 	font-size: 50px;
-    color: #ffffff;	
+	font-weight: normal;
 }
 
 a {
 	color: #7fffd4;
 	font-size: 16px;
 	margin: auto;
+}
+
+#camp {
+	display: block;
+	margin: auto;
+}
+
+h2 {
+	font-weight: 300;
+	font-size: 42px;
+}
+
+p {
+	color: #808080;
+	font-size: 21px;
+}
+
+#phone {
+	margin-top: 30px;
+}
+
+footer p{
+	text-align: right;
 }
